@@ -1,0 +1,12 @@
+.banner{
+    position: absolute;
+    top: 15px;
+    width: 70px;
+    height: 20px;
+}
+
+.other{
+    position:absolute;
+    top: 15px;
+    right: 10px;
+}
